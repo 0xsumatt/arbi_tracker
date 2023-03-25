@@ -11,5 +11,5 @@ From here it's simply a matter of running main.py and selecting menu option 1.
 This is highly experimental and hasn't really been tested much so please don't rely too heavily on it
 
 *TODO
-Add async or threading
-Tidy up the code more
+-Add async or threading
+-Tidy up the code more
