@@ -1,5 +1,7 @@
 # arbi_tracker
 
+Write up can be found here https://medium.com/@sumatt/building-an-arbitrum-wallet-tracker-f7c1a5aba0fa
+
 You should be able to install from requirements but incase it doesn't work you need httpx,dotenv,rich and discord_webhook to make this work.
 
 First thing you'll need is an arbiscan api key, you can get one here by creating an account https://arbiscan.io/register
@@ -13,3 +15,5 @@ This is highly experimental and hasn't really been tested much so please don't r
 *TODO
 -Add async or threading
 -Tidy up the code more
+
+
